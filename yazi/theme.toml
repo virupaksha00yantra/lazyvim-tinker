@@ -1,0 +1,9 @@
+"$schema" = "https://yazi-rs.github.io/schemas/theme.json"
+
+[flavor]
+dark  = "everforest-orange"
+light = "everforest-orange"
+
+# Force override cursor
+[manager]
+hovered = { fg = "#1e2326", bg = "#e69875" }
